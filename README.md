@@ -1,2 +1,2 @@
-# factorio_utils
+# Factorio utils
 Calculators and planning tools for Factorio
